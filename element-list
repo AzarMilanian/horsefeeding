@@ -1,0 +1,8 @@
+com.accenture.horsefeeding
+com.accenture.horsefeeding.controller
+com.accenture.horsefeeding.dto
+com.accenture.horsefeeding.exception
+com.accenture.horsefeeding.mapper
+com.accenture.horsefeeding.model
+com.accenture.horsefeeding.repository
+com.accenture.horsefeeding.service
